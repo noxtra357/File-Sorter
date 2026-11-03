@@ -84,7 +84,7 @@ Things to know:
 
 ```
 .
-├── sorter.py    # the whole program
+├── sorter.py # the whole program
 └── README.md
 ```
 
